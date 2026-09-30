@@ -1,6 +1,8 @@
 streamlit
 opencv-python-headless
 numpy
-pillow
+scipy
+scikit-image
 reportlab
 matplotlib
+pillow
